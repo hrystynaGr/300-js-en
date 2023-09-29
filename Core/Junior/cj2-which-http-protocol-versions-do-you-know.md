@@ -2,7 +2,7 @@
 - **HTTP/0.9** - (1991) Structured 'conversations' between client and server.
 - **HTTP/1.0** - (1996) Support for headers, status codes, and more versatile content types.
 - **HTTP/1.1** - (1999) A modern protocol version. *TCP* was added, allowing the connection (handshake) to stay open after the answer to the request was sent. This change allows for multiple requests during one connection.
-- **HTTP/2.0** - New features: prioritizing of requests, support of server push messages, header compression, multiplexing of requests. ![Multiplexing image](/image.png)
+- **HTTP/2.0** - New features: prioritizing of requests, support of server push messages, header compression, multiplexing of requests. ![Multiplexing image](image.png)
 - **HTTP/3.0** - *UDP* was added.
 
 > Protocols are rules that govern how data is formatted and sent over a network.
