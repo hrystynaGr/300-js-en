@@ -14,7 +14,7 @@ let message = 0;
 const myTimer = setInterval(()=> {
     console.log(message++);
     if(message > 5) {
-        clearInterval(myTimer)
+        clearInterval(myTimer);
     }
 }
 , 200)
