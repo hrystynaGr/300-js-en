@@ -8,14 +8,14 @@ const calcSum = function(a, b) {
 }
 ```
 
-1. Example on anonimous function as a callback:
+2. Example on anonimous function as a callback:
 ```
 setTimeout(function(){
     console.log('One second passed!');
 },1000)
 ```
 
-1. As IIFE (Immediately Invoked Function Expression):
+3. As IIFE (Immediately Invoked Function Expression):
 ```
 (function () {
   console.log('Hello!');
