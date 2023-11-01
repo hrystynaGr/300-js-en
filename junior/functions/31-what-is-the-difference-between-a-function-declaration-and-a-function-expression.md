@@ -26,7 +26,7 @@ let funcExpression = function () {
 1. you need to create a function that is recursive
 1. you need to call the function before it is defined
 
-**Use a function expression when:**1. 
+**Use a function expression when:** 
 1. you need a more flexible function
 1. you need a function that isn’t hoisted
 1. the function should only used when it is defined
